@@ -1,2 +1,4 @@
-# bloc-jams-jquery
-A starter project for Bloc's jQuery-driven music player app.
+# BlocJams jQuery project
+
+A jQuery-driven music player app project completed as part of Bloc's UX design course. 
+
